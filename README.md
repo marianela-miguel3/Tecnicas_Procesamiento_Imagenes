@@ -1,4 +1,4 @@
-# Procesamiento Digital de Imágenes — Proyectos Finales
+# Procesamiento Digital de Imágenes
 
 Este repositorio contiene una colección de proyectos realizados como parte del curso de **Técnicas de Procesamiento Digital de Imágenes**, con aplicaciones que combinan visión por computadora, redes neuronales, y generación de descripciones automáticas. Cada carpeta incluye un proyecto autocontenido, con su código, notebooks y recursos necesarios.
 
