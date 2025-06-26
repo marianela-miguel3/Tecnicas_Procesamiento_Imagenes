@@ -41,5 +41,7 @@ A lo largo del curso pudimos comprender no solo los algoritmos clásicos, sino t
 ---
 
 26 de Junio 2025
+
 👤 Alumna: Marianela Miguel
+
 👨‍🏫 Docente a cargo de la cátedra: Matias Barreto
