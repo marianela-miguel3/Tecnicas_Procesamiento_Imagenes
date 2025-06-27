@@ -46,3 +46,5 @@ A lo largo del curso pudimos comprender no solo los algoritmos clásicos, sino t
 👤 Alumna: Marianela Miguel
 
 👨‍🏫 Docente a cargo de la cátedra: Matias Barreto
+
+Tecnicatura en Ciencia de Datos e IA, IFTS N°24
