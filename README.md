@@ -26,9 +26,10 @@ Este repositorio contiene una colección de proyectos realizados como parte del 
 | **018_Gradio** | Creación de interfaces interactivas con Gradio. | [Ir a carpeta](./018_Gradio) |
 | **019_StableDiffusion_gradio** | Integración de Stable Diffusion en apps con interfaz. | [Ir a carpeta](./019_StableDiffusion_gradio) |
 | **020_Webcam_colab** | Captura y procesamiento en tiempo real desde webcam. | [Ir a carpeta](./020_Webcam_colab) |
-| **021_Ética_and_IA** | Reflexiones sobre los aspectos éticos del uso de IA. | [Ir a carpeta](./021_Ética_and_IA) |
-| **Integrador** | Desarrollo libre integrando varias técnicas. | [Ir a carpeta](./Integrador) |
-| **Proyecto_integrador** | Proyecto final completo: captioning y traducción de imágenes. | [Ir a carpeta](./Proyecto_integrador) |
+| **021_Etica_and_IA** | Reflexiones sobre los aspectos éticos del uso de IA. | [Ir a carpeta](./021_Ética_and_IA) |
+| **022_Proyectos** | Proyecto final integrador y entregables. | [Ir a carpeta](./022_Proyecto_final_integrador) |
+| **023_Apropiaciones** | Proyectos propios a partir de sugerencias y disparadores. | [Ir a carpeta](./023_Apropiaciones) |
+
 
 ---
 
